@@ -1,0 +1,3 @@
+@layer components {
+  .qapps-card { @apply qapps-rounded-2xl qapps-shadow qapps-bg-white qapps-p-4; }
+}
